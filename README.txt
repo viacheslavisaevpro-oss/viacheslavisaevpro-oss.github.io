@@ -1,0 +1,1 @@
+VI — GitHub Pages. Загрузите ВСЕ 5 файлов в корень репозитория viacheslavisaevpro-oss.github.io. Не загружайте ZIP как один файл. В Settings > Pages выберите Deploy from a branch, main, /(root), Save. Адрес: https://viacheslavisaevpro-oss.github.io/
